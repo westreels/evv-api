@@ -45,7 +45,7 @@
     "laravel-vapor": "^0.4.0",
     "markdown-it": "^8.4.1",
     "moment": "^2.22.2",
-    "moment-timezone": "^0.5.21",
+    "moment-timezone": "^0.5.35",
     "mousetrap": "^1.6.3",
     "numbro": "^2.1.2",
     "places.js": "^1.7.3",
